@@ -1,0 +1,1 @@
+export FLASK_APP=restaurant_app
